@@ -6,7 +6,8 @@
 /* Profile \pic */
 .codicon-accounts-view-bar-icon:before {
     content: '';
-    /* background-image: url(/D:/BSCS/Projects/My-Tech-Stack/Fun/vscode-settings-json/img.jpg); */
+    background: teal;
+    background-image: url(/D:/BSCS/Projects/My-Tech-Stack/Fun/vscode-settings-json/img.jpg);
     background-size: 100%;
     width: 90%;
     height: 90%;
