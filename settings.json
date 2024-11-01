@@ -192,10 +192,10 @@
     },
     "material-icon-theme.saturation": 0,
     "vscode_custom_css.imports": [
-        "file:///Users/glennraya/custom-vscode.css",
-        "file:///Users/glennraya/vscode-script.js"
+        "file:///D:/BSCS/Projects/Fun/vscode-settings-json/custom-vscode.css",
+        "file:///D:/BSCS/Projects/Fun/vscode-settings-json/vscode-script.js"
     ],
-    "workbench.colorTheme": "React Theme",
+    "workbench.colorTheme": "coder coder Dark theme",
     "workbench.iconTheme": "eq-material-theme-icons-light",
     "workbench.sideBar.location": "right",
     "material-icon-theme.files.color": "#42a5f5",
